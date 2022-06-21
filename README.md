@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Padmendra Singh Yadav
+- 🌱 I’m currently persuing B.tech in Artificial Intelligence AND Machine Learning 
+- 📫 How to reach me ="padmendray30@gmail.com
