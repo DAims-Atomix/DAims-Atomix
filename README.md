@@ -1,24 +1,89 @@
-# 💫 About Me:
-Hi there, I'm Padmendra Singh Yadav! 👋<br>I'm an enthusiastic B.Tech student majoring in Artificial Intelligence and Machine Learning.<br>I love exploring new technologies and building innovative solutions. <br>My goal is to leverage AI/ML to solve real-world problems and contribute to the tech community.<br><br>🌱 I’m currently studying B.Tech in AI/ML<br>📧 You can reach me at: padmendray30@gmail.com<br>🔗 Check out my GitHub for some of my projects and code samples<br>Let's connect and create something awesome! 🚀
+# 👋 Hi, I'm Padmendra Singh Yadav
 
+### AI Engineer | Generative AI | LLMs | Agentic AI
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/padmendra/) 
+I'm an AI Engineer passionate about building intelligent applications and exploring the evolving world of Artificial Intelligence.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DAims-Atomix&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DAims-Atomix&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DAims-Atomix&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I graduated with a **B.Tech in Artificial Intelligence and Machine Learning** from Netaji Subhash Engineering College, Kolkata, in 2025.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+Currently, I'm working at **Tata Consultancy Services (TCS)**, focusing on developing LLM-powered applications, Retrieval-Augmented Generation (RAG) systems, and exploring Agentic AI solutions.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DAims-Atomix&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I enjoy transforming complex ideas into practical solutions through AI, software engineering, and continuous experimentation.
+
+- 💼 **Currently:** AI Engineer at Tata Consultancy Services
+- 🧠 **Interests:** Generative AI, LLMs, RAG, Agentic AI, and Machine Learning
+- 🔭 **Exploring:** Agentic Commerce and intelligent AI agents
+- 🌱 **Learning:** Advanced LLM architectures, AI agents, and scalable AI systems
+- 🎓 **Education:** B.Tech in Artificial Intelligence & Machine Learning (2025)
+- 🏆 **Achievement:** Top 25 – TCS CodeVita Season 12
+- 📧 **Email:** padmendray30@gmail.com
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DAims-Atomix&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### AI / Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Generative AI & LLM Engineering
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+
+**Areas of expertise:**
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- Semantic Search & Vector Databases
+- AI Agents & Agentic Workflows
+- LLM Application Development
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Top 25 – TCS CodeVita Season 12**
+- 🎯 Invited to the TCS CodeVita Grand Finale and Award Ceremony.
+- 💻 Competitive Programming enthusiast and problem solver.
+
+---
+
+## 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=DAims-Atomix&theme=tokyonight&hide_border=true&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=DAims-Atomix&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DAims-Atomix&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/padmendra/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/DAims-Atomix)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:padmendray30@gmail.com)
+
+---
+
+*"Building intelligent systems today to solve the problems of tomorrow."* 🚀
